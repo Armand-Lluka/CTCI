@@ -1,0 +1,31 @@
+{
+  "name": "CTCI",
+  "version": "1.0.0",
+  "description": "Cracking the coding interview tests and answers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "codecov": "^3.0.4",
+    "nyc": "^13.0.1",
+    "tap-spec": "^5.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armand-Lluka/CTCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armand-Lluka/CTCI/issues"
+  },
+  "homepage": "https://github.com/Armand-Lluka/CTCI#readme"
+}
